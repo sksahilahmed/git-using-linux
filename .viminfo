@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1742364285,,"wq"
+|2,0,1742364782,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,44 @@
 # Registers:
 
 # File marks:
-'0  22  0  ~/scr.sh
-|4,48,22,0,1742364285,"~/scr.sh"
-'1  10  15  ~/scr.sh
-|4,49,10,15,1742364011,"~/scr.sh"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1742364782,"~/.git/MERGE_MSG"
+'1  22  0  ~/scr.sh
+|4,49,22,0,1742364285,"~/scr.sh"
 '2  10  15  ~/scr.sh
 |4,50,10,15,1742364011,"~/scr.sh"
+'3  10  15  ~/scr.sh
+|4,51,10,15,1742364011,"~/scr.sh"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1742364782,"~/.git/MERGE_MSG"
+-'  22  0  ~/scr.sh
+|4,39,22,0,1742364285,"~/scr.sh"
 -'  22  0  ~/scr.sh
 |4,39,22,0,1742364285,"~/scr.sh"
 -'  10  15  ~/scr.sh
 |4,39,10,15,1742364014,"~/scr.sh"
+-'  10  15  ~/scr.sh
+|4,39,10,15,1742364014,"~/scr.sh"
+-'  10  15  ~/scr.sh
+|4,39,10,15,1742364011,"~/scr.sh"
 -'  10  15  ~/scr.sh
 |4,39,10,15,1742364011,"~/scr.sh"
 -'  1  0  ~/scr.sh
 |4,39,1,0,1742360966,"~/scr.sh"
 -'  1  0  ~/scr.sh
 |4,39,1,0,1742360966,"~/scr.sh"
+-'  1  0  ~/scr.sh
+|4,39,1,0,1742360966,"~/scr.sh"
+-'  1  0  ~/scr.sh
+|4,39,1,0,1742360966,"~/scr.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1742364780	0
+	"	1	0
 
 > ~/scr.sh
 	*	1742364284	0
